@@ -1,0 +1,13 @@
+client_id,client_name,client_persona,ticker,shares,avg_cost_price,current_price,sector
+101,Jane Doe,45-year-old tech executive focused on long-term growth,SHOP.TO,150,110.50,55.25,Technology
+101,Jane Doe,45-year-old tech executive focused on long-term growth,BMO.TO,200,105.00,125.75,Financials
+101,Jane Doe,45-year-old tech executive focused on long-term growth,ENB.TO,300,45.20,48.50,Energy
+101,Jane Doe,45-year-old tech executive focused on long-term growth,XIU.TO,250,30.10,33.45,ETF
+102,Mark Chen,62-year-old retiree focused on income and capital preservation,RY.TO,500,120.00,142.10,Financials
+102,Mark Chen,62-year-old retiree focused on income and capital preservation,BCE.TO,400,62.50,44.80,Communication Services
+102,Mark Chen,62-year-old retiree focused on income and capital preservation,FTS.TO,350,55.00,53.50,Utilities
+102,Mark Chen,62-year-old retiree focused on income and capital preservation,SU.TO,200,40.00,51.20,Energy
+103,Aisha Khan,35-year-old doctor growing her wealth aggressively,ATD.TO,300,70.00,85.15,Consumer Discretionary
+103,Aisha Khan,35-year-old doctor growing her wealth aggressively,L.TO,150,95.00,89.50,Consumer Staples
+103,Aisha Khan,35-year-old doctor growing her wealth aggressively,WEED.TO,2000,4.50,0.75,Healthcare
+103,Aisha Khan,35-year-old doctor growing her wealth aggressively,CNR.TO,100,160.00,175.30,Industrials
